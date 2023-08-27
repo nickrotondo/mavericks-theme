@@ -1,0 +1,6 @@
+[submodule "themes/mavericks-warp"]
+	path = themes/mavericks-warp
+	url = git@github.com:nickrotondo/mavericks-warp.git
+[submodule "themes/mavericks-vscode"]
+	path = themes/mavericks-vscode
+	url = git@github.com:nickrotondo/mavericks-vscode.git
