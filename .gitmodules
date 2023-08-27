@@ -4,3 +4,6 @@
 [submodule "themes/mavericks-vscode"]
 	path = themes/mavericks-vscode
 	url = git@github.com:nickrotondo/mavericks-vscode.git
+[submodule "themes/mavericks-starship"]
+	path = themes/mavericks-starship
+	url = git@github.com:nickrotondo/mavericks-starship.git
