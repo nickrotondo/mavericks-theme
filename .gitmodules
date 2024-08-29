@@ -7,3 +7,6 @@
 [submodule "themes/mavericks-starship"]
 	path = themes/mavericks-starship
 	url = git@github.com:nickrotondo/mavericks-starship.git
+[submodule "themes/mavericks-obsidian"]
+	path = themes/mavericks-obsidian
+	url = git@github.com:nickrotondo/mavericks-obsidian.git
