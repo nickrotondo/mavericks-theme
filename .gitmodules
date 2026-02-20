@@ -10,3 +10,6 @@
 [submodule "themes/mavericks-obsidian"]
 	path = themes/mavericks-obsidian
 	url = git@github.com:nickrotondo/mavericks-obsidian.git
+[submodule "themes/mavericks-typora"]
+	path = themes/mavericks-typora
+	url = git@github.com:nickrotondo/mavericks-typora.git
